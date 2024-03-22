@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.immodurable.blog/news-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
-		<loc>/les-defis-de-la-conformite-reglementaire-en-construction-hors-site/</loc>
+		<loc>/les-incitations-gouvernementales-pour-une-construction-durable-et-biosourcee/</loc>
 		<news:news>
 			<news:publication>
 				<news:name>immoDURABLE.blog</news:name>
 				<news:language>en</news:language>
 			</news:publication>
-			<news:publication_date>2024-03-18T08:47:06+00:00</news:publication_date>
-			<news:title><![CDATA[Les défis de la conformité réglementaire en construction hors site]]></news:title>
+			<news:publication_date>2024-03-22T10:21:50+00:00</news:publication_date>
+			<news:title><![CDATA[Les incitations gouvernementales pour une construction durable et biosourcée]]></news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>/decarbonation-du-secteur-de-la-construction-defis-et-solutions/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>immoDURABLE.blog</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-21T08:26:16+00:00</news:publication_date>
+			<news:title><![CDATA[Décarbonation du secteur de la construction : défis et solutions]]></news:title>
+		</news:news>
+	</url>
+	<url>
+		<loc>/concevoir-une-infrastructure-resiliente-strategies-cles-pour-une-construction-durable/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>immoDURABLE.blog</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-20T10:24:22+00:00</news:publication_date>
+			<news:title><![CDATA[Concevoir une infrastructure résiliente : stratégies clés pour une construction durable]]></news:title>
 		</news:news>
 	</url>
 </urlset>

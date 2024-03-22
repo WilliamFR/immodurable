@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/les-prix-des-modules-photovoltaiques-diminuent/</loc>
+		<lastmod>2023-07-08T09:48:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Les-prix-des-modules-photovoltaiques-diminuent.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/le-green-village-aux-pays-bas-ouvre-un-laboratoire-vivant-pour-encourager-lutilisation-de-materiaux-biosources/</loc>
+		<lastmod>2023-06-28T15:12:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Biocirculaire-binnenwand.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/une-nouvelle-etude-preconise-la-mesure-du-carbone-incorpore-dans-les-batiments-industriels/</loc>
+		<lastmod>2023-06-28T15:07:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Une-nouvelle-etude-preconise-la-mesure-du-carbone-incorpore-dans-les-batiments-industriels.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-commission-changement-climatique-demande-une-revision-de-la-construction-des-routes-en-grande-bretagne/</loc>
+		<lastmod>2023-06-28T15:02:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/La-commission-Changement-climatique-demande-une-revision-de-la-construction-des-routes-en-Grande-Bretagne.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/lindustrie-des-materiaux-de-construction-annonce-un-bon-debut-de-saison-aux-etats-unis/</loc>
 		<lastmod>2023-06-28T14:56:34+00:00</lastmod>
 		<image:image>
@@ -1376,34 +1404,6 @@
 		<lastmod>2023-04-07T09:53:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Un-quartier-visant-le-zero-carbone-inaugure-porte-dAubervilliers.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/le-btp-devient-un-secteur-de-pointe-selon-une-etude/</loc>
-		<lastmod>2023-04-06T10:58:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Le-BTP-devient-un-secteur-de-pointe-selon-une-etude.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/vers-des-eoliennes-en-bois/</loc>
-		<lastmod>2023-04-06T10:51:30+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/raw.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/les-tendances-du-salon-bim-world-2023/</loc>
-		<lastmod>2023-04-06T10:44:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/4b68426a.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/nouveau-type-deolienne-omnidirectionnelle-de-toit-par-ventum/</loc>
-		<lastmod>2023-04-06T10:37:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/invention-innovation-eolienne-toit-omnidirectionnelle-ventum-dynamics-002.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
