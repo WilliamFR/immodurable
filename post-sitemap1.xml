@@ -4,6 +4,20 @@
 		<loc>/articles/</loc>
 	</url>
 	<url>
+		<loc>/toitures-vegetalisees-oasis-urbaines-pour-un-avenir-durable/</loc>
+		<lastmod>2024-03-26T10:05:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/couche-delta-ms-11571392286.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/comment-le-bim-reinvente-la-prefabrication-une-nouvelle-ere-technologique/</loc>
+		<lastmod>2024-03-25T11:08:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/BIM1102.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/les-incitations-gouvernementales-pour-une-construction-durable-et-biosourcee/</loc>
 		<lastmod>2024-03-22T10:21:59+00:00</lastmod>
 		<image:image>
@@ -2323,20 +2337,6 @@
 		<lastmod>2023-07-08T09:48:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/07/Les-benefices-du-diagnostic-PEMD-pour-les-professionnels-du-batiment.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/sinfina-une-solution-pour-reduire-lempreinte-carbone-du-btp-grace-au-reemploi/</loc>
-		<lastmod>2023-07-08T09:48:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/SINFINA-une-solution-pour-reduire-lempreinte-carbone-du-BTP-grace-au-reemploi.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/limportance-de-la-reutilisation-des-materiaux-dans-la-reduction-de-lempreinte-carbone/</loc>
-		<lastmod>2023-07-08T09:48:30+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/Limportance-de-la-reutilisation-des-materiaux-dans-la-reduction-de-lempreinte-carbone.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
