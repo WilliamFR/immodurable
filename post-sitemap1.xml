@@ -4,6 +4,13 @@
 		<loc>/articles/</loc>
 	</url>
 	<url>
+		<loc>/personnalisation-des-constructions-prefabriquees-mythe-ou-realite/</loc>
+		<lastmod>2024-03-28T10:00:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/f-1632x1224-s81537314744.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/toitures-vegetalisees-oasis-urbaines-pour-un-avenir-durable/</loc>
 		<lastmod>2024-03-26T10:05:52+00:00</lastmod>
 		<image:image>
@@ -2330,13 +2337,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/07/Sabine_Drexler_au_Senat_en_2020.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/les-benefices-du-diagnostic-pemd-pour-les-professionnels-du-batiment/</loc>
-		<lastmod>2023-07-08T09:48:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/Les-benefices-du-diagnostic-PEMD-pour-les-professionnels-du-batiment.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

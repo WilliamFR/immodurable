@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/de-quelle-maniere-lia-va-transformer-la-construction/</loc>
+		<lastmod>2023-04-07T10:18:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/De-quelle-maniere-lIA-va-transformer-la-construction-.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/pourquoi-la-construction-alimentee-par-lia-prend-le-secteur-dassaut/</loc>
 		<lastmod>2023-04-07T10:05:26+00:00</lastmod>
 		<image:image>
@@ -689,17 +696,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/les-outils-dia-appliques-a-la-construction/</loc>
-		<lastmod>2023-03-29T18:07:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Les-Outils-DIA-Appliques-A-La-Construction.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/renover-ou-construire-durablement/</loc>
 		<lastmod>2023-03-29T18:07:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/02/renovation-batiment.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/les-outils-dia-appliques-a-la-construction/</loc>
+		<lastmod>2023-03-29T18:07:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/Les-Outils-DIA-Appliques-A-La-Construction.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1427,16 +1434,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/11/2022-11-20T16-22-41.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/rendre-les-batiments-plus-economes-en-energie-le-role-de-la-numerisation/</loc>
-		<lastmod>2023-03-29T15:17:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/batiments-energie-data.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/2022-11-22T13-30-27.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

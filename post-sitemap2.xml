@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/les-benefices-du-diagnostic-pemd-pour-les-professionnels-du-batiment/</loc>
+		<lastmod>2023-07-08T09:48:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Les-benefices-du-diagnostic-PEMD-pour-les-professionnels-du-batiment.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/sinfina-une-solution-pour-reduire-lempreinte-carbone-du-btp-grace-au-reemploi/</loc>
 		<lastmod>2023-07-08T09:48:40+00:00</lastmod>
 		<image:image>
@@ -1397,13 +1404,6 @@
 		<lastmod>2023-04-10T08:53:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Les-metiers-de-leco-construction-a-lhonneur-a-Bellac.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/de-quelle-maniere-lia-va-transformer-la-construction/</loc>
-		<lastmod>2023-04-07T10:18:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/De-quelle-maniere-lIA-va-transformer-la-construction-.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
