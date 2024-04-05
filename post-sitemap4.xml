@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/de-plus-en-plus-de-recyclage-dans-le-btp/</loc>
+		<lastmod>2023-03-29T18:02:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/De-plus-en-plus-de-recyclage-dans-le-BTP.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/anticiper-les-nouveaux-enjeux-du-secteur-de-la-construction/</loc>
+		<lastmod>2023-03-29T15:17:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/Anticiper-les-nouveaux-enjeux-du-secteur-de-la-construction.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-construction-durable/</loc>
+		<lastmod>2023-03-29T15:17:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/Construction-Durable.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tendances-suite-au-rapport-du-modular-building-institute/</loc>
+		<lastmod>2023-03-29T15:17:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/Modular-building.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/les-defis-du-numerique-dans-la-construction/</loc>
+		<lastmod>2023-03-29T15:17:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/Defis-du-numetique.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/2022-11-20T16-22-41.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/rendre-les-batiments-plus-economes-en-energie-le-role-de-la-numerisation/</loc>
 		<lastmod>2023-03-29T15:17:27+00:00</lastmod>
 		<image:image>

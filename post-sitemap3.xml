@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/un-ciment-bas-carbone-a-partir-dun-nouvel-agregat/</loc>
+		<lastmod>2023-04-10T09:46:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Un-ciment-bas-carbone-a-partir-dun-nouvel-agregat.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-revolution-industrielle-de-la-construction-est-en-cours/</loc>
+		<lastmod>2023-04-10T09:39:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/La-revolution-industrielle-de-la-construction-est-en-cours.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-cherbourg-des-demolitions-pour-rehabiliter-un-quartier-entier/</loc>
+		<lastmod>2023-04-10T09:14:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/A-Cherbourg-des-demolitions-pour-rehabiliter-un-quartier-entier.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/de-plus-en-plus-dapprentis-dans-le-btp/</loc>
+		<lastmod>2023-04-10T09:00:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/De-plus-en-plus-dapprentis-dans-le-BTP.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/les-metiers-de-leco-construction-a-lhonneur-a-bellac/</loc>
+		<lastmod>2023-04-10T08:53:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Les-metiers-de-leco-construction-a-lhonneur-a-Bellac.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/de-quelle-maniere-lia-va-transformer-la-construction/</loc>
 		<lastmod>2023-04-07T10:18:52+00:00</lastmod>
 		<image:image>
@@ -696,17 +731,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/renover-ou-construire-durablement/</loc>
-		<lastmod>2023-03-29T18:07:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/renovation-batiment.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/les-outils-dia-appliques-a-la-construction/</loc>
 		<lastmod>2023-03-29T18:07:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/02/Les-Outils-DIA-Appliques-A-La-Construction.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/renover-ou-construire-durablement/</loc>
+		<lastmod>2023-03-29T18:07:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/renovation-batiment.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1396,44 +1431,6 @@
 		<lastmod>2023-03-29T18:02:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/ecole-adrien-bonnel-pont-sainte-maxence-oise-google-maps-960x640-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/de-plus-en-plus-de-recyclage-dans-le-btp/</loc>
-		<lastmod>2023-03-29T18:02:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/De-plus-en-plus-de-recyclage-dans-le-BTP.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/anticiper-les-nouveaux-enjeux-du-secteur-de-la-construction/</loc>
-		<lastmod>2023-03-29T15:17:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Anticiper-les-nouveaux-enjeux-du-secteur-de-la-construction.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/la-construction-durable/</loc>
-		<lastmod>2023-03-29T15:17:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Construction-Durable.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/tendances-suite-au-rapport-du-modular-building-institute/</loc>
-		<lastmod>2023-03-29T15:17:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Modular-building.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/les-defis-du-numerique-dans-la-construction/</loc>
-		<lastmod>2023-03-29T15:17:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Defis-du-numetique.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/2022-11-20T16-22-41.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

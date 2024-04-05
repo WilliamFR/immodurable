@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/la-transition-vers-une-economie-circulaire-investissements-cles-pour-la-reussite/</loc>
+		<lastmod>2023-07-08T09:49:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/La-transition-vers-une-economie-circulaire-_-Investissements-cles-pour-la-reussite.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/le-role-essentiel-des-maitres-doeuvre-dans-le-reemploi-resultats-dune-enquete-de-cycle-up/</loc>
+		<lastmod>2023-07-08T09:49:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Le-role-essentiel-des-maitres-doeuvre-dans-le-reemploi-_-resultats-dune-enquete-de-Cycle-Up.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/les-avantages-des-maisons-evolutives-pour-reduire-notre-empreinte-ecologique/</loc>
+		<lastmod>2023-07-08T09:49:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Les-avantages-des-maisons-evolutives-pour-reduire-notre-empreinte-ecologique.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/les-acteurs-majeurs-en-suisse-sunissent-pour-leconomie-circulaire-dans-la-construction/</loc>
+		<lastmod>2023-07-08T09:49:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Les-acteurs-majeurs-en-Suisse-sunissent-pour-leconomie-circulaire-dans-la-construction.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/renovation-du-bati-ancien-et-transition-ecologique-le-rapport-de-la-senatrice-sabine-drexier/</loc>
+		<lastmod>2023-07-08T09:48:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Renovation-du-bati-ancien-et-transition-ecologique-le-rapport-de-la-senatrice-Sabine-Drexier.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Sabine_Drexler_au_Senat_en_2020.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/les-benefices-du-diagnostic-pemd-pour-les-professionnels-du-batiment/</loc>
 		<lastmod>2023-07-08T09:48:49+00:00</lastmod>
 		<image:image>
@@ -1369,41 +1407,6 @@
 		<lastmod>2023-04-11T08:58:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Pourquoi-la-prefabrication-fonctionne-quels-facteurs-a-prendre-en-compte%E2%80%A6.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/un-ciment-bas-carbone-a-partir-dun-nouvel-agregat/</loc>
-		<lastmod>2023-04-10T09:46:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Un-ciment-bas-carbone-a-partir-dun-nouvel-agregat.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/la-revolution-industrielle-de-la-construction-est-en-cours/</loc>
-		<lastmod>2023-04-10T09:39:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/La-revolution-industrielle-de-la-construction-est-en-cours.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/a-cherbourg-des-demolitions-pour-rehabiliter-un-quartier-entier/</loc>
-		<lastmod>2023-04-10T09:14:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/A-Cherbourg-des-demolitions-pour-rehabiliter-un-quartier-entier.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/de-plus-en-plus-dapprentis-dans-le-btp/</loc>
-		<lastmod>2023-04-10T09:00:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/De-plus-en-plus-dapprentis-dans-le-BTP.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/les-metiers-de-leco-construction-a-lhonneur-a-bellac/</loc>
-		<lastmod>2023-04-10T08:53:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Les-metiers-de-leco-construction-a-lhonneur-a-Bellac.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
