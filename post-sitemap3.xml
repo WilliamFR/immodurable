@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/comment-le-bim-permet-dameliorer-la-securite-dans-la-construction/</loc>
+		<lastmod>2023-04-12T08:04:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/BIM-En-France-_-Le-Troisieme-Plan-Defini.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/le-marche-de-la-construction-modulaire-devrait-croitre-de-33-milliards-usd-entre-2022-et-2027/</loc>
+		<lastmod>2023-04-12T07:33:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Le-marche-de-la-construction-modulaire-devrait-croitre-de-33-milliards-USD-entre-2022-et-2027.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/assurer-la-securite-conseils-pour-le-nettoyage-votre-chantier/</loc>
+		<lastmod>2023-04-11T09:25:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Assurer-la-securite-conseils-pour-le-nettoyage-votre-chantier.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/pourquoi-la-prefabrication-fonctionne-quels-facteurs-a-prendre-en-compte/</loc>
+		<lastmod>2023-04-11T08:58:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Pourquoi-la-prefabrication-fonctionne-quels-facteurs-a-prendre-en-compte%E2%80%A6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/un-ciment-bas-carbone-a-partir-dun-nouvel-agregat/</loc>
 		<lastmod>2023-04-10T09:46:44+00:00</lastmod>
 		<image:image>
@@ -1403,34 +1431,6 @@
 		<lastmod>2023-03-29T18:03:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/BIM-En-France-_-Le-Troisieme-Plan-Defini.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/le-veritable-cout-dune-maison-conteneur-en-2023/</loc>
-		<lastmod>2023-03-29T18:03:00+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Quel-est-le-prix-de-construction-reel-dune-maison-conteneur-en-2023-_.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/un-immeuble-en-beton-100-recycle/</loc>
-		<lastmod>2023-03-29T18:02:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Un-immeuble-en-beton-100-recycle.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/les-enjeux-du-btp-a-lheure-de-la-transformation-numerique/</loc>
-		<lastmod>2023-03-29T18:02:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Les-enjeux-du-BTP-a-lheure-de-la-transformation-numerique.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/une-ecole-en-paille-et-en-bois-dans-loise/</loc>
-		<lastmod>2023-03-29T18:02:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/ecole-adrien-bonnel-pont-sainte-maxence-oise-google-maps-960x640-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

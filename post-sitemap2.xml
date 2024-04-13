@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/prevenir-lapparition-de-friches-industrielles-une-priorite-pour-la-france/</loc>
+		<lastmod>2023-07-08T09:50:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Prevenir-lapparition-de-friches-industrielles-une-priorite-pour-la-France.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/le-label-rge-un-gage-de-competence-pour-vos-travaux-deconomie-denergie/</loc>
+		<lastmod>2023-07-08T09:50:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Le-label-RGE-un-gage-de-competence-pour-vos-travaux-deconomie-denergie.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-demande-mondiale-en-energie-augmente-malgre-lurgence-climatique/</loc>
+		<lastmod>2023-07-08T09:49:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/La-demande-mondiale-en-energie-augmente-malgre-lurgence-climatique.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/limportance-des-energies-renouvelables-dans-la-transition-ecologique-mondiale/</loc>
+		<lastmod>2023-07-08T09:49:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Limportance-des-energies-renouvelables-dans-la-transition-ecologique-mondiale.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/la-transition-vers-une-economie-circulaire-investissements-cles-pour-la-reussite/</loc>
 		<lastmod>2023-07-08T09:49:34+00:00</lastmod>
 		<image:image>
@@ -1379,34 +1407,6 @@
 		<lastmod>2023-04-12T08:14:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/La-chasse-aux-emissions-carbonees-avec-des-jumeaux-numeriques.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/comment-le-bim-permet-dameliorer-la-securite-dans-la-construction/</loc>
-		<lastmod>2023-04-12T08:04:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/BIM-En-France-_-Le-Troisieme-Plan-Defini.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/le-marche-de-la-construction-modulaire-devrait-croitre-de-33-milliards-usd-entre-2022-et-2027/</loc>
-		<lastmod>2023-04-12T07:33:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Le-marche-de-la-construction-modulaire-devrait-croitre-de-33-milliards-USD-entre-2022-et-2027.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/assurer-la-securite-conseils-pour-le-nettoyage-votre-chantier/</loc>
-		<lastmod>2023-04-11T09:25:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Assurer-la-securite-conseils-pour-le-nettoyage-votre-chantier.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/pourquoi-la-prefabrication-fonctionne-quels-facteurs-a-prendre-en-compte/</loc>
-		<lastmod>2023-04-11T08:58:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Pourquoi-la-prefabrication-fonctionne-quels-facteurs-a-prendre-en-compte%E2%80%A6.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
